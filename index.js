@@ -12,14 +12,14 @@ const AUTO_ACCESS = process.env.AUTO_ACCESS || false;
 const FILE_PATH = process.env.FILE_PATH || '.tmp';   
 const SUB_PATH = process.env.SUB_PATH || 'sub';       
 const PORT = process.env.SERVER_PORT || process.env.PORT || 3000;       
-const UUID = process.env.UUID || '9afd1229-b893-40c1-84dd-51e7ce204913'; 
+const UUID = process.env.UUID || '05362478-d47f-4081-bbd7-38ca327d8ac7'; 
 const NEZHA_SERVER = process.env.NEZHA_SERVER || '';        
 const NEZHA_PORT = process.env.NEZHA_PORT || '';            
 const NEZHA_KEY = process.env.NEZHA_KEY || '';              
 const ARGO_DOMAIN = process.env.ARGO_DOMAIN || '';          
 const ARGO_AUTH = process.env.ARGO_AUTH || '';              
 const ARGO_PORT = process.env.ARGO_PORT || 8001;            
-const CFIP = process.env.CFIP || 'saas.sin.fan';             
+const CFIP = process.env.CFIP || 'openrouter.ai';             
 const CFPORT = process.env.CFPORT || 443;                   
 const NAME = process.env.NAME || '';                        
 
