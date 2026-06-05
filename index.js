@@ -19,7 +19,7 @@ const NEZHA_KEY = process.env.NEZHA_KEY || '';
 const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'dcwtmlttp.dnshe-b.ccwu.cc';          
 const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiMjcxZDZmYTYwYzgyNTI2ZmRjOTFhN2RkNjg4NGRjYjkiLCJ0IjoiMWI5N2E4OGYtNjA0ZC00MzczLTk0ZmItNjBhY2Y2MDA2ZDcyIiwicyI6Ik56QTROV0kyWXpNdE9UZzBZUzAwWkdKaExXRmlPV1V0WkdZNE1EUXhNVGhqWkRneiJ9';              
 const ARGO_PORT = process.env.ARGO_PORT || 8033;            
-const CFIP = process.env.CFIP || 'openrouter.ai';             
+const CFIP = process.env.CFIP || 'mpt.com.mm';             
 const CFPORT = process.env.CFPORT || 443;                   
 const NAME = process.env.NAME || '';                        
 
